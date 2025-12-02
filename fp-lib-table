@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sensorBoardMk2Library")(type "KiCad")(uri "C:/Users/michi/Documents/sensorBoardMk2/sensorBoardMk2Library.pretty")(options "")(descr ""))
+)
