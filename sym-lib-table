@@ -5,4 +5,5 @@
   (lib (name "IS31FL3193-DLS2-TR")(type "KiCad")(uri "${KIPRJMOD}/additionalParts/LED-Driver/IS31FL3193-DLS2-TR.kicad_sym")(options "")(descr ""))
   (lib (name "SGP40-D-R4")(type "KiCad")(uri "${KIPRJMOD}/additionalParts/Air-Quality-Sensor/SGP40-D-R4.kicad_sym")(options "")(descr ""))
   (lib (name "430181038816")(type "KiCad")(uri "${KIPRJMOD}/additionalParts/Button/430181038816.kicad_sym")(options "")(descr ""))
+  (lib (name "B4B-PH-SM4-TB")(type "KiCad")(uri "${KIPRJMOD}/additionalParts/JST-Connector/B4B-PH-SM4-TB.kicad_sym")(options "")(descr ""))
 )
