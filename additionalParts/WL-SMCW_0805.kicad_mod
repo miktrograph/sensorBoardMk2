@@ -1,0 +1,223 @@
+(footprint "WL-SMCW_0805"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<B>WL-SMCW SMT Mono-color Chip LED Waterclear<Br><Br></B>Size: 0805, SMT, 2pins<Br>2x1.25x0.7mm(LXWXH)")
+	(property "Reference" "REF**"
+		(at 0 -1.6064 0)
+		(layer "F.SilkS")
+		(uuid "55a63124-d13f-406a-8b8b-c3e9db825d1c")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WL-SMCW_0805"
+		(at 0 1.5936 0)
+		(layer "F.Fab")
+		(uuid "4556969a-bbf7-4bfd-8330-a4032244da29")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e38046d-9c74-4c90-b7bd-38c9723251ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ae1524e-3a44-41fc-8c5f-b8993efb3d66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.213 -0.725)
+		(end 0.219 -0.725)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c442dc4-0702-4632-bef8-7d8f0a9f3ffe")
+	)
+	(fp_line
+		(start -0.206 0.725)
+		(end 0.212 0.725)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bc5ff75-b802-4587-ac66-ca11ab7ef7dd")
+	)
+	(fp_line
+		(start -0.13 0)
+		(end 0.11 -0.14)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a312019c-4174-4e98-b649-b854c9dca00b")
+	)
+	(fp_line
+		(start 0.11 -0.14)
+		(end 0.11 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1371300-7855-411b-8d02-dc1a2daa62cb")
+	)
+	(fp_line
+		(start 0.11 0.15)
+		(end -0.13 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93ec2ff2-442f-488f-acd6-dfba7563570f")
+	)
+	(fp_poly
+		(pts
+			(xy -1.8 -0.925) (xy 1.8 -0.925) (xy 1.8 0.925) (xy -1.8 0.925)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "7b650b6e-508e-4887-a2a0-518d2fb19910")
+	)
+	(fp_line
+		(start -1 -0.625)
+		(end 1 -0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "80226332-6374-4041-95ce-649645a521d7")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end -1 -0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0aba045a-97bf-498a-b4a8-bf9b10cd7abd")
+	)
+	(fp_line
+		(start -1 0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bfcf817e-b426-47e4-95fb-559e7737ea9d")
+	)
+	(fp_line
+		(start -0.13 0)
+		(end 0.11 -0.14)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dd0f8460-976a-4bb0-903d-2d2923d1f2a0")
+	)
+	(fp_line
+		(start 0.11 -0.14)
+		(end 0.11 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "57ff0212-f64a-49bb-ac9f-e6883efa0733")
+	)
+	(fp_line
+		(start 0.11 0.15)
+		(end -0.13 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dfbfe9aa-e791-4c54-a1d0-d6568e9ba93a")
+	)
+	(fp_line
+		(start 1 -0.625)
+		(end 1 0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f667cdec-9c1e-4ac2-ac18-63efbc60ea57")
+	)
+	(fp_text user "+"
+		(at 1.9 0.3 0)
+		(layer "F.SilkS")
+		(uuid "5a0d87f5-826a-4bbd-b277-dc922556aad0")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at 1.9 0.3 0)
+		(layer "F.Fab")
+		(uuid "0bd0b33e-ba05-4c97-ac2e-210673973bd9")
+		(effects
+			(font
+				(size 0.48 0.48)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.05 0)
+		(size 1.1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "9a968a32-4c1e-43eb-92b0-2f5fc111bfc2")
+	)
+	(pad "2" smd rect
+		(at 1.05 0)
+		(size 1.1 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "0447fa09-ce0d-4fcc-9d16-b4260e6389be")
+	)
+	(embedded_fonts no)
+)
