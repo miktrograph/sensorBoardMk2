@@ -1,4 +1,6 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "sensorBoardMk2Library")(type "KiCad")(uri "${KIPRJMOD}/additionalParts")(options "")(descr ""))
+	(version 7)
+	(lib (name "sensorBoardMk2Library") (type "KiCad") (uri "${KIPRJMOD}/additionalParts") (options "") (descr ""))
+	(lib (name "JST-Connector-4_Pin_THT") (type "KiCad") (uri "${KIPRJMOD}/additionalParts/JST-Connector-4_Pin_THT") (options "") (descr ""))
+	(lib (name "Button") (type "KiCad") (uri "${KIPRJMOD}/additionalParts/Button") (options "") (descr ""))
 )
